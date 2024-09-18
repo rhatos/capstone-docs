@@ -227,7 +227,7 @@ he did not have fraud_u_lent intent but compassion rather than crimin_ality
 All tokens are highlighted with color showing how they were broken up.
 
 - A word with a single colour means that the entire word exists as a token in the model.
-- A word with multiple colours shows how that word was broken up into multiple token.
+- A word with multiple colours shows how that word was broken up into multiple tokens.
 
 #### Statistics
 
