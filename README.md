@@ -191,8 +191,7 @@ On this page you can do the following:
   - Either a direct text-input (max 200 words)
   - Or a file input.
 
-After selecting a model and choosing and filling in an input type, you can click on the now green "Tokenize text" button to tokenize
-your input.
+After selecting an input type, submitting an input corpus and choosing a model, you can click the now green "Tokenize text" button to tokenize your input
 
 #### Tokenized Output (File Input)
 
