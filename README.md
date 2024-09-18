@@ -85,7 +85,7 @@ You will be presented with the following login menu:
 <img width="700" src="./login_menu.png">
 </div>
 
-Clicking the login button after filling in your account details and you will be logged in.
+Clicking the login button after filling in your account details will log you in.
 
 ## Usage
 
@@ -239,4 +239,4 @@ All tokens are highlighted with color showing how they were broken up.
 - Token to word ratio:
   - This shows the average number of tokens per word from the input text.
 - % of vocabulary used:
-  - This shows the percentage of how many tokens generated from the input text that existed already in the model.
+  - This shows the percentage of tokens that were found during the training process out of the total number of tokens in the model.
